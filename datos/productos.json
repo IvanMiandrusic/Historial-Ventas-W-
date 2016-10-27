@@ -1,0 +1,37 @@
+[
+  {
+    "descripcion": "Clavo",
+    "precio_unit": 0.5,
+    "cantVendidos": 50
+  },
+  {
+    "descripcion": "Martillo",
+    "precio_unit": 10.0,
+    "cantVendidos": 5
+  },
+  {
+    "descripcion": "Pegamento",
+    "precio_unit": 15.0,
+    "cantVendidos": 20
+  },
+  {
+    "descripcion": "Tornillo",
+    "precio_unit": 0.5,
+    "cantVendidos": 11
+  },
+  {
+    "descripcion": "Destornillador",
+    "precio_unit": 10.0,
+    "cantVendidos": 3
+  },
+  {
+    "descripcion": "Cable Canal",
+    "precio_unit": 5.0,
+    "cantVendidos": 25
+  },
+  {
+    "descripcion": "Soga",
+    "precio_unit": 3.0,
+    "cantVendidos": 16
+  }
+]

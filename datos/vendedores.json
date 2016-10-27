@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Melchor",
+    "list_ventas": [
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Clavo",
+              "precio_unit": 0.5,
+              "cantVendidos": 50
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Martillo",
+              "precio_unit": 10.0,
+              "cantVendidos": 5
+            }
+          }
+        ],
+        "totalVenta": 15.0
+      },
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Clavo",
+              "precio_unit": 0.5,
+              "cantVendidos": 50
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Martillo",
+              "precio_unit": 10.0,
+              "cantVendidos": 5
+            }
+          },
+          {
+            "cantidad": 5,
+            "prod": {
+              "descripcion": "Pegamento",
+              "precio_unit": 15.0,
+              "cantVendidos": 20
+            }
+          }
+        ],
+        "totalVenta": 176.0
+      },
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Pegamento",
+              "precio_unit": 15.0,
+              "cantVendidos": 20
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Destornillador",
+              "precio_unit": 10.0,
+              "cantVendidos": 3
+            }
+          }
+        ],
+        "totalVenta": 180.0
+      }
+    ]
+  },
+  {
+    "name": "Baltazar",
+    "list_ventas": [
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Clavo",
+              "precio_unit": 0.5,
+              "cantVendidos": 50
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Martillo",
+              "precio_unit": 10.0,
+              "cantVendidos": 5
+            }
+          },
+          {
+            "cantidad": 5,
+            "prod": {
+              "descripcion": "Soga",
+              "precio_unit": 3.0,
+              "cantVendidos": 16
+            }
+          }
+        ],
+        "totalVenta": 41.0
+      },
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Clavo",
+              "precio_unit": 0.5,
+              "cantVendidos": 50
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Martillo",
+              "precio_unit": 10.0,
+              "cantVendidos": 5
+            }
+          }
+        ],
+        "totalVenta": 75.0
+      },
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Soga",
+              "precio_unit": 3.0,
+              "cantVendidos": 16
+            }
+          }
+        ],
+        "totalVenta": 90.0
+      },
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Cable Canal",
+              "precio_unit": 5.0,
+              "cantVendidos": 25
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Soga",
+              "precio_unit": 3.0,
+              "cantVendidos": 16
+            }
+          }
+        ],
+        "totalVenta": 213.0
+      }
+    ]
+  },
+  {
+    "name": "Gaspar",
+    "list_ventas": [
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Clavo",
+              "precio_unit": 0.5,
+              "cantVendidos": 50
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Martillo",
+              "precio_unit": 10.0,
+              "cantVendidos": 5
+            }
+          },
+          {
+            "cantidad": 5,
+            "prod": {
+              "descripcion": "Pegamento",
+              "precio_unit": 15.0,
+              "cantVendidos": 20
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Tornillo",
+              "precio_unit": 0.5,
+              "cantVendidos": 11
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Destornillador",
+              "precio_unit": 10.0,
+              "cantVendidos": 3
+            }
+          }
+        ],
+        "totalVenta": 52.5
+      },
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Tornillo",
+              "precio_unit": 0.5,
+              "cantVendidos": 11
+            }
+          },
+          {
+            "cantidad": 1,
+            "prod": {
+              "descripcion": "Destornillador",
+              "precio_unit": 10.0,
+              "cantVendidos": 3
+            }
+          },
+          {
+            "cantidad": 5,
+            "prod": {
+              "descripcion": "Cable Canal",
+              "precio_unit": 5.0,
+              "cantVendidos": 25
+            }
+          }
+        ],
+        "totalVenta": 45.0
+      },
+      {
+        "vendidos": [
+          {
+            "cantidad": 10,
+            "prod": {
+              "descripcion": "Cable Canal",
+              "precio_unit": 5.0,
+              "cantVendidos": 25
+            }
+          }
+        ],
+        "totalVenta": 135.0
+      }
+    ]
+  }
+]
